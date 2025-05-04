@@ -13,6 +13,6 @@ Currently a CS graduate student , with industry experience in **data governance*
 - 🔍 Research: Agentic workflows security , LLM safety, GraphRAG lineage  
 - 🛠️ Stack: `Python` • `React` • `LangChain` • `Next.js` • `DBT` • `FastAPI` • `Docker` • `C++`  
 - 💼 Previously @ OvalEdge   
-- 🌱 Learning:  
+- 🌱 Learning:  How to make good biryani
 
 ---
