@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/notbhuvangab/notbhuvangab/main/assets/code-canoe-banner.png" alt="You make my code canoe, can't pass to you" style="max-width: 100%;" />
+  <img src="https://raw.githubusercontent.com/notbhuvangab/notbhuvangab/main/assets/typeshii.gif" alt="You make my code canoe, can't pass to you" style="max-width: 100%;" />
 </p>
 
 ---
